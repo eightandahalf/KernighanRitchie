@@ -1,0 +1,6 @@
+﻿  Main.c
+E:\Programming\C\Projects\KernighanRitchie\KR_1.13\KR_1.13\Main.c(120,48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[20]'
+E:\Programming\C\Projects\KernighanRitchie\KR_1.13\KR_1.13\Main.c(120,37): warning C4024: 'vertic_histogram': different types for formal and actual parameter 2
+E:\Programming\C\Projects\KernighanRitchie\KR_1.13\KR_1.13\Main.c(121,47): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[20]'
+E:\Programming\C\Projects\KernighanRitchie\KR_1.13\KR_1.13\Main.c(121,36): warning C4024: 'horiz_histogram': different types for formal and actual parameter 2
+  KR_1.13.vcxproj -> E:\Programming\C\Projects\KernighanRitchie\KR_1.13\Debug\KR_1.13.exe
