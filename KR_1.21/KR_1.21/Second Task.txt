@@ -1,0 +1,7 @@
+Second Task: 
+When either a tab or a single blank would suffice 
+to reach a tab stop, which should be given preference?
+
+Answer: 
+In my honest opinion, it's better to use tab symbol, 
+because it takes 1 byte of data while 4 spaces take 4 byte of memory

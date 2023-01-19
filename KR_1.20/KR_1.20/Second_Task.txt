@@ -1,0 +1,5 @@
+Second Task: 
+Assume a fixed set of tab stops, say every n columns. Should n be a variable or a symbolic parametr?
+
+Answer: I think n should be a symbolic parametr, because no sense to allocate memmory to this data, since n is a constant
+value(always it's equal to some value)
