@@ -1,0 +1,7 @@
+﻿  Main.c
+E:\Programming\C\Projects\KernighanRitchie\KR_1.24\KR_1.24\Main.c(58,60): warning C4129: '*': unrecognized character escape sequence
+E:\Programming\C\Projects\KernighanRitchie\KR_1.24\KR_1.24\Main.c(65,49): warning C4129: '*': unrecognized character escape sequence
+E:\Programming\C\Projects\KernighanRitchie\KR_1.24\KR_1.24\Main.c(80,49): warning C4129: '*': unrecognized character escape sequence
+E:\Programming\C\Projects\KernighanRitchie\KR_1.24\KR_1.24\Main.c(85,48): warning C4129: '*': unrecognized character escape sequence
+E:\Programming\C\Projects\KernighanRitchie\KR_1.24\KR_1.24\Main.c(131,25): warning C4553: '==': result of expression not used; did you intend '='?
+  KR_1.24.vcxproj -> E:\Programming\C\Projects\KernighanRitchie\KR_1.24\Debug\KR_1.24.exe

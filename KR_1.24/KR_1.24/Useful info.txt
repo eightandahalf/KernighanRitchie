@@ -1,0 +1,3 @@
+Parentheses ( ) are the curved signs that you might see in text just as much as in mathematics
+Brackets look similar but are angular in shape [ ], and
+Braces are also similar but are curly in shape { }
