@@ -1,0 +1,5 @@
+﻿  main.c
+e:\self_experience\programming\c\projects\kernighanritchie\kr_2.1\kr_2.1\main.c(9): warning C4307: '-': integral constant overflow
+e:\self_experience\programming\c\projects\kernighanritchie\kr_2.1\kr_2.1\main.c(10): warning C4307: '-': integral constant overflow
+  KR_2.1.vcxproj -> E:\Self_experience\Programming\C\Projects\KernighanRitchie\KR_2.1\Debug\KR_2.1.exe
+  KR_2.1.vcxproj -> E:\Self_experience\Programming\C\Projects\KernighanRitchie\KR_2.1\Debug\KR_2.1.pdb (Partial PDB)
