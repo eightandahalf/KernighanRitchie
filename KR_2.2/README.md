@@ -1,2 +1,3 @@
-Bubblesort is a popular, but inefficient, sorting algorithm. It works by repeatedly
-swapping adjacent elements that are out of order.
+Exercise 2-2. Write a loop equivalent to the for loop above
+(for (i=0; i < lim-1 && (c=getchar()) != '\n' && c != EOF; ++i)
+ s[i] = c;) without using && or ||. 
