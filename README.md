@@ -1,0 +1,1 @@
+My implementation of some tasks from book The C Programming Language - 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie
